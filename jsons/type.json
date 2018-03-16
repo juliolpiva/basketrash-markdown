@@ -1,0 +1,22 @@
+[
+    {
+      "type": "Score",
+      "description": "Self explanatory"
+    },
+    {
+      "type": "1Shot1Kill",
+      "description": "make a basket on the first shot"
+    },
+    {
+      "type": "FoodDerruber",
+      "description": "Self explanatory"
+    },
+    {
+      "type": "LastChanceShot",
+      "description": "make a basket on the last shot"
+    },
+    {
+      "type": "BackFromDeath",
+      "description": "After 2 months or more, make a basket"
+    }
+  ]
