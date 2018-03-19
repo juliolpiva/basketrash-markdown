@@ -101,7 +101,7 @@
     {
       "agent": "joao@dynamox.net",
       "type": "Score",
-      "match": "chanfles_paranoico",
+      "match": "modest_elion",
       "datetime": "2018-03-16T15:30:00-03:00",
       "reportDatetime": "2018-03-16T15:45:00-03:00",
       "reporter": "julio@dynamox.net",
@@ -124,5 +124,50 @@
       "reportDatetime": "2018-03-16T15:45:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "d71e41123fca"
+    },
+    {
+      "agent": "joao@dynamox.net",
+      "type": "Score",
+      "match": "cranky_bose",
+      "datetime": "2018-03-19T15:30:00-03:00",
+      "reportDatetime": "2018-03-19T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "cc63a3b1a420"
+    },
+    {
+      "agent": "joao@dynamox.net",
+      "type": "1Shot1Kill",
+      "match": "cranky_bose",
+      "datetime": "2018-03-19T15:30:00-03:00",
+      "reportDatetime": "2018-03-19T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "544bbea46871"
+    },
+    {
+      "agent": "priscila@dynamox.net",
+      "type": "FoodDerruber",
+      "match": "cranky_bose",
+      "datetime": "2018-03-19T15:30:00-03:00",
+      "reportDatetime": "2018-03-19T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "977a187d6732"
+    },
+    {
+      "agent": "gustavo@dynamox.net",
+      "type": "Score",
+      "match": "cranky_bose",
+      "datetime": "2018-03-19T15:30:00-03:00",
+      "reportDatetime": "2018-03-19T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "e7bd3b6e0eac"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "BallBloqueier",
+      "match": "cranky_bose",
+      "datetime": "2018-03-19T15:30:00-03:00",
+      "reportDatetime": "2018-03-19T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe5c49d4"
     }
   ]

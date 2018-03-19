@@ -14,20 +14,26 @@
               {
                 "name": "stoic_panini",
                 "datetime": "2018-03-13T15:30:00-03:00",
-                "wind": 0,
+                "wind": false,
                 "rain": false
               },
               {
                 "name": "dazzling_banach",
                 "datetime": "2018-03-14T15:30:00-03:00",
-                "wind": 0,
+                "wind": false,
                 "rain": false
               },
               {
                 "name": "modest_elion",
                 "datetime": "2018-03-16T15:30:00-03:00",
-                "wind": 0,
+                "wind": false,
                 "rain": false
+              },
+              {
+                "name": "cranky_bose",
+                "datetime": "2018-03-19T15:30:00-03:00",
+                "wind": true,
+                "rain": true
               }
             ]
           }
