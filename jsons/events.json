@@ -169,5 +169,41 @@
       "reportDatetime": "2018-03-19T15:45:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0fb1fe5c49d4"
+    },
+    {
+      "agent": "yuri@dynamox.net",
+      "type": "Score",
+      "match": "agitated_aryabhata",
+      "datetime": "2018-03-21T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe5c49d4"
+    },
+    {
+      "agent": "romano@dynamox.net",
+      "type": "Score",
+      "match": "agitated_aryabhata",
+      "datetime": "2018-03-21T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe5c49d4"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Score",
+      "match": "agitated_aryabhata",
+      "datetime": "2018-03-21T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe5c49d4"
+    },
+    {
+      "agent": "julio@dynamox.net",
+      "type": "Score",
+      "match": "agitated_aryabhata",
+      "datetime": "2018-03-21T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe5c49d4"
     }
   ]
