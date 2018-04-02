@@ -205,5 +205,50 @@
       "reportDatetime": "2018-03-21T15:45:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0fb1fe5c49d4"
+    },
+    {
+      "agent": "joao@dynamox.net",
+      "type": "Score",
+      "match": "modest_panini",
+      "datetime": "2018-04-02T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe6c49d4"
+    },
+    {
+      "agent": "yuri@dynamox.net",
+      "type": "Dribrador",
+      "match": "modest_panini",
+      "datetime": "2018-04-02T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe5c49d4"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "AirColider",
+      "match": "modest_panini",
+      "datetime": "2018-04-02T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb3fe5c49d4"
+    },
+    {
+      "agent": "daniel@dynamox.net",
+      "type": "AirColider",
+      "match": "modest_panini",
+      "datetime": "2018-04-02T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1ee5c49d4"
+    },
+    {
+      "agent": "andre@dynamox.net",
+      "type": "FieldGoal",
+      "match": "modest_panini",
+      "datetime": "2018-04-02T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0fb1fe1c49d4"
     }
   ]
