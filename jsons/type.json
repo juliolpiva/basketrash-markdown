@@ -30,5 +30,9 @@
     {
       "type": "FieldGoal",
       "description": "when a player shot a 'BICUDA' and send the ball to the 'MEIO DO MATO'"
+    },
+    {
+      "type": "HeadShoter",
+      "description": "when a player shot a 'CABEÇÃO'of another 'COLEGUINHA'"
     }
   ]
