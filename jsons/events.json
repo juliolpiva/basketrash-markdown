@@ -286,5 +286,14 @@
       "reportDatetime": "2018-03-21T15:45:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0f31231c49d4"
+    },
+    {
+      "agent": "andre@dynamox.net",
+      "type": "Score",
+      "match": "dazzling_bose",
+      "datetime": "2018-04-09T15:30:00-03:00",
+      "reportDatetime": "2018-03-21T15:45:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f31231c4dd4"
     }
   ]
