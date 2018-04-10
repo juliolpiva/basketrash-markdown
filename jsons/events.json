@@ -295,5 +295,68 @@
       "reportDatetime": "2018-03-21T15:45:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0f31231c4dd4"
+    },
+    {
+      "agent": "andre@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bardeen",
+      "datetime": "2018-04-10T15:30:00-03:00",
+      "reportDatetime": "2018-04-10T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f31235c4dd4"
+    },
+    {
+      "agent": "andre@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bardeen",
+      "datetime": "2018-04-10T15:30:00-03:00",
+      "reportDatetime": "2018-04-10T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "2f31235c4dd4"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bardeen",
+      "datetime": "2018-04-10T15:30:00-03:00",
+      "reportDatetime": "2018-04-10T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f312f5c4dd4"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bardeen",
+      "datetime": "2018-04-10T15:30:00-03:00",
+      "reportDatetime": "2018-04-10T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f31ee5c4dd4"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bardeen",
+      "datetime": "2018-04-10T15:30:00-03:00",
+      "reportDatetime": "2018-04-10T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f312fff4dd4"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Hattrick",
+      "match": "cocky_bardeen",
+      "datetime": "2018-04-10T15:30:00-03:00",
+      "reportDatetime": "2018-04-10T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f312f5c4dd4"
+    },
+    {
+      "agent": "andre@dynamox.net",
+      "type": "DoubleWonder",
+      "match": "cocky_bardeen",
+      "datetime": "2018-04-10T15:30:00-03:00",
+      "reportDatetime": "2018-04-10T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f312f5c4dd4"
     }
   ]

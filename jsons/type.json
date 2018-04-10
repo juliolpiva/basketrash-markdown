@@ -34,5 +34,13 @@
     {
       "type": "HeadShoter",
       "description": "when a player shot a 'CABEÇÃO'of another 'COLEGUINHA'"
+    },
+    {
+      "type": "Hattrick",
+      "description": "three scores"
+    },
+    {
+      "type": "Double Wonder",
+      "description": "two scores"
     }
   ]
