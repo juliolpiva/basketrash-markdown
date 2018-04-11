@@ -358,5 +358,23 @@
       "reportDatetime": "2018-04-10T15:30:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0f312f5c4dd4"
+    },
+    {
+      "agent": "daniel@dynamox.net",
+      "type": "Score",
+      "match": "gracious_bell",
+      "datetime": "2018-04-11T15:30:00-03:00",
+      "reportDatetime": "2018-04-11T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f312f5c4dde"
+    },
+    {
+      "agent": "romano@dynamox.net",
+      "type": "Score",
+      "match": "gracious_bell",
+      "datetime": "2018-04-11T15:30:00-03:00",
+      "reportDatetime": "2018-04-11T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f312f5c4ddf"
     }
   ]
