@@ -376,5 +376,59 @@
       "reportDatetime": "2018-04-11T15:30:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0f312f5c4ddf"
+    },
+    {
+      "agent": "felipe@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bell",
+      "datetime": "2018-04-13T15:30:00-03:00",
+      "reportDatetime": "2018-04-13T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f32245c4ddf"
+    },
+    {
+      "agent": "yuri@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bell",
+      "datetime": "2018-04-13T15:30:00-03:00",
+      "reportDatetime": "2018-04-13T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3eff5c4ddf"
+    },
+    {
+      "agent": "romano@dynamox.net",
+      "type": "Score",
+      "match": "cocky_bell",
+      "datetime": "2018-04-13T15:30:00-03:00",
+      "reportDatetime": "2018-04-13T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3e2f5c4ddf"
+    },
+    {
+      "agent": "felipe@dynamox.net",
+      "type": "Score",
+      "match": "ungry_bardeen",
+      "datetime": "2018-04-16T15:30:00-03:00",
+      "reportDatetime": "2018-04-16T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3e2f5cfddf"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Score",
+      "match": "ungry_bardeen",
+      "datetime": "2018-04-16T15:30:00-03:00",
+      "reportDatetime": "2018-04-16T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3e2f5c4fdf"
+    },
+    {
+      "agent": "luis@dynamox.net",
+      "type": "Score",
+      "match": "ungry_bardeen",
+      "datetime": "2018-04-16T15:30:00-03:00",
+      "reportDatetime": "2018-04-16T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3e2f5c4dff"
     }
   ]
