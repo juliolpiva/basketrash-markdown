@@ -14,7 +14,7 @@
 | 10| [João](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-reis-8923b0a9/)        | 5 |||
 | 11 | Ana*                                                                         | 4 |||
 | 12| [Bernardo](https://www.linkedin.com/in/bhpmurta/)                             | 3 |:basketball:||
-| 13| Felipe*                                                                       | 2 ||||
+| 13| [Felipe](https://github.com/felpin)                                                                       | 2 ||||
  * Carece Fontes
 
 
