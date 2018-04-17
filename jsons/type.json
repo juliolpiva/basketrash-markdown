@@ -42,5 +42,9 @@
     {
       "type": "Double Wonder",
       "description": "two scores"
+    },
+    {
+      "type": "AyrtonSenna",
+      "description": "score on a weather floor"
     }
   ]

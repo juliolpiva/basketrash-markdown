@@ -82,6 +82,12 @@
                 "datetime": "2018-04-16T15:30:00-03:00",
                 "wind": 2,
                 "rain": false
+              },
+              {
+                "name": "agitated_bose",
+                "datetime": "2018-04-17T15:30:00-03:00",
+                "wind": 0,
+                "rain": true
               }
             ]
           }
