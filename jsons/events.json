@@ -529,5 +529,32 @@
       "reportDatetime": "2018-04-17T15:30:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0f3e2f5c4dff"
+    },
+    {
+      "agent": "joao@dynamox.net",
+      "type": "1Shot1Kill",
+      "match": "modest_bardeen",
+      "datetime": "2018-04-18T15:30:00-03:00",
+      "reportDatetime": "2018-04-18T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3e2f5c4dff"
+    },
+    {
+      "agent": "joao@dynamox.net",
+      "type": "Score",
+      "match": "modest_bardeen",
+      "datetime": "2018-04-18T15:30:00-03:00",
+      "reportDatetime": "2018-04-18T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3a2f5c4dff"
+    },
+    {
+      "agent": "julio@dynamox.net",
+      "type": "Score",
+      "match": "modest_bardeen",
+      "datetime": "2018-04-18T15:30:00-03:00",
+      "reportDatetime": "2018-04-18T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
     }
   ]
