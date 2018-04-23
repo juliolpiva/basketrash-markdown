@@ -556,5 +556,95 @@
       "reportDatetime": "2018-04-18T15:30:00-03:00",
       "reporter": "julio@dynamox.net",
       "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Score",
+      "match": "antonio_nunes",
+      "datetime": "2018-04-20T15:30:00-03:00",
+      "reportDatetime": "2018-04-20T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "gustavo@dynamox.net",
+      "type": "Score",
+      "match": "antonio_nunes",
+      "datetime": "2018-04-20T15:30:00-03:00",
+      "reportDatetime": "2018-04-20T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "joao@dynamox.net",
+      "type": "Score",
+      "match": "antonio_nunes",
+      "datetime": "2018-04-20T15:30:00-03:00",
+      "reportDatetime": "2018-04-20T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "gustavo@dynamox.net",
+      "type": "Score",
+      "match": "antonio_nunes",
+      "datetime": "2018-04-20T15:30:00-03:00",
+      "reportDatetime": "2018-04-20T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "gustavo@dynamox.net",
+      "type": "Score",
+      "match": "pedro_geromel",
+      "datetime": "2018-04-23T15:30:00-03:00",
+      "reportDatetime": "2018-04-23T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "andre@dynamox.net",
+      "type": "Score",
+      "match": "pedro_geromel",
+      "datetime": "2018-04-23T15:30:00-03:00",
+      "reportDatetime": "2018-04-23T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "matias@dynamox.net",
+      "type": "Score",
+      "match": "pedro_geromel",
+      "datetime": "2018-04-23T15:30:00-03:00",
+      "reportDatetime": "2018-04-23T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "moacir@dynamox.net",
+      "type": "HandNeta",
+      "match": "pedro_geromel",
+      "datetime": "2018-04-23T15:30:00-03:00",
+      "reportDatetime": "2018-04-23T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "julio@dynamox.net",
+      "type": "HandNeta",
+      "match": "pedro_geromel",
+      "datetime": "2018-04-23T15:30:00-03:00",
+      "reportDatetime": "2018-04-23T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
+    },
+    {
+      "agent": "daniel@dynamox.net",
+      "type": "FieldGoal",
+      "match": "pedro_geromel",
+      "datetime": "2018-04-23T15:30:00-03:00",
+      "reportDatetime": "2018-04-23T15:30:00-03:00",
+      "reporter": "julio@dynamox.net",
+      "hash": "0f3c2f5c4dff"
     }
   ]
