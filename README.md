@@ -3,13 +3,13 @@
 | Pos | Ranking Geral | 6ªs | Shunfles                              | VCE         |
 |-----|---------------|-----|---------------------------------------|-------------|
 | 1   | Matias        | 20  |                                       |             |
-| 2   | Daniel        | 15  |                                       |             |
-| 3   | Gustavo       | 14  |                                       |             |
-| 4   | Júlio         | 14  |                                       |             |
+| 2   | Júlio         | 16  |:basketball::basketball:               | :uparrow:   |
+| 3   | Gustavo       | 16  |:basketball::basketball:               | :uparrow:   |
+| 4   | Daniel        | 15  |                                       | :downarrow: |
 | 5   | Andre         | 13  |                                       |             |
-| 6   | Moacir        | 11  | :basketball:                          |             |
+| 6   | Moacir        | 11  |                                       |             |
 | 7   | Romano        | 9   |                                       |             |
-| 8   | Luis          | 8   |                                       |             |
+| 8   | Luis          | 9   |:basketball:                           |             |
 | 9   | Yuri          | 8   |                                       |             |
 | 10  | Joao          | 8   |                                       |             |
 | 11  | Bernardo      | 5   |                                       |             |
@@ -17,4 +17,4 @@
 | 13  | Ana           | 4   |                                       |             |
 | 14  | Bruno         | 1   |                                       |             |
 | 15  | Fabienne      | 1   |                                       |             |
-| 16  | Fransoa       | 1   | :basketball:                          |             |
+| 16  | Fransoa       | 1   |                                       |             |
