@@ -1,21 +1,33 @@
+| Sextas de Primeira    |:one: + :anger: :gun:   |  
+|:--------:|---:|                            
+| André               |:medal_sports:| 
+
+| Double Wonder | :two: :gun: |
+|:--|:--------:     |
+|  Matias| :medal_sports:|
+|  Júlio| :medal_sports:|
+
+| Violencia Gratuita | :fist_right::frowning_man: |
+|:--|:--------:     |
+|  Romano| :medal_sports:|
 
 ### Rank
 
 | Pos | Ranking Geral | 6ªs | Shunfles                              | VCE         |
 |-----|---------------|-----|---------------------------------------|-------------|
-| 1   | Matias        | 24  |:basketball:                           |             |
-| 2   | Júlio         | 16  |                                       |             |
+| 1   | Matias        | 26  |:basketball::basketball:               |             |
+| 2   | Júlio         | 18  |:basketball::basketball:               |             |
 | 3   | Gustavo       | 16  |                                       |             |
-| 4   | Daniel        | 15  |                                       |             |
-| 5   | Andre         | 15  |:basketball:                           |             |
+| 5   | Andre         | 16  |:basketball:                           |:uparrow:    |
+| 4   | Daniel        | 16  |:basketball:                           |:downarrow:  |
 | 6   | Moacir        | 11  |                                       |             |
-| 7   | Romano        | 9   |                                       |             |
-| 8   | Luis          | 9   |                                       |             |
-| 9  | Joao          | 9  |:basketball:                          |  :uparrow:            |
-| 10   | Yuri          | 8   |                                       |  :downarrow:           |
-| 11  | Bernardo      | 5   |                                       |             |
-| 12  | Felipe        | 5   |                                       |             |
-| 13  | Ana           | 4   |                                       |             |
+| 7   | Luis          | 10  |:basketball:                           | :uparrow:   |
+| 8   | Romano        | 9   |                                       |:downarrow:  |
+| 9   | Joao          | 9   |                                       |             |
+| 10  | Yuri          | 8   |                                       |             |
+| 11  | Felipe        | 6   |:basketball:                           |:uparrow:    |
+| 12  | Bernardo      | 5   |                                       |:downarrow:  |
+| 13  | ~~Ana~~       | 4   |                                       |             |
 | 14  | Bruno         | 1   |                                       |             |
 | 15  | Fabienne      | 1   |                                       |             |
 | 16  | Françoá       | 1   |                                       |             |
