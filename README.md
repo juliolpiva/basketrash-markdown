@@ -1,38 +1,34 @@
 
-## 30.05
+## 01.06
 
 ### Arquivaments
 
-| CHEGA PORRA     |:roll_eyes:  |  
+| Sextas de Primeira     |:one: + :anger: :gun:   |  
 |:--------:|---:|                            
-| Matias               |:medal_sports:|
+| Matias               |:medal_sports:| 
 
-| Sergio Ramos     |:sergioramos: :hospital:   |  
+| Sextas no Ultimo Minuto     |:stopwatch:   |  
 |:--------:|---:|                            
-| Luis |:medal_sports:|
+| Gustavo               |:medal_sports:|
 
-|AirColider  |:airplane:|  
-|:--------:     |---:| 
-|  Bruno | :medal_sports:  |
-|  Gustavo| :medal_sports:  |
 
 ### Rank
 
 | Pos | Ranking Geral | 6ªs | Shunfles                              | VCE         |
 |-----|---------------|-----|---------------------------------------|-------------|
-| 1   | Matias        | 30  |:basketball:                           |             |
-| 2   | Júlio         | 20  |                                       |             |
-| 3   | Daniel        | 20  |:basketball:                           |             |
-| 4   | Andre         | 18  |                                       |             |
-| 5   | Gustavo       | 17  |                                       |             |
-| 6   | Luis          | 14  | :basketball:                          |             |
-| 7   | Moacir        | 12  |                                       |             |
+| 1   | Matias        | 31  |:basketball:                           |             |
+| 2   | Júlio         | 21  |:basketball:                           |             |
+| 3   | Daniel        | 20  |                                       |             |
+| 4   | Andre         | 19  |:basketball:                           |             |
+| 5   | Gustavo       | 18  |:basketball:                           |             |
+| 6   | Luis          | 15  |:basketball:                           |             |
+| 7   | Moacir        | 13  |:basketball:                           |             |
 | 8   | Romano        | 10  |                                       |             |
 | 9   | Joao          | 10  |                                       |             |
 | 10  | Yuri          | 8   |                                       |             |
-| 11  | Felipe        | 6   |                                       |             |
+| 11  | Felipe        | 7   |:basketball:                           |             |
 | 12  | Bernardo      | 6   |                                       |             |
 | 13  | ~~Ana~~       | 4   |                                       |             |
-| 14  | Bruno         | 2   |:basketball:                           |             |
+| 14  | Bruno         | 2   |                                       |             |
 | 15  | Fabienne      | 1   |                                       |             |
 | 16  | Françoá       | 1   |                                       |             | 
