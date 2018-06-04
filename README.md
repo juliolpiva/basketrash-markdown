@@ -1,32 +1,41 @@
 
-## 01.06
+## 04.06
 
 ### Arquivaments
 
-| Sextas de Primeira     |:one: + :anger: :gun:   |  
+| Busquer de Primeira     |:donkey:   |  
 |:--------:|---:|                            
 | Matias               |:medal_sports:| 
 
-| Sextas no Ultimo Minuto     |:stopwatch:   |  
+| Stevie Wonder     |:eyeglasses: :stevie:   |  
 |:--------:|---:|                            
 | Gustavo               |:medal_sports:|
+
+| Dribrador | :soccer: |
+|:--------:|---:|                            
+| Moacir               |:medal_sports:|
+
+| La sexta de papel | :newspaper: |
+|:--------:|---:|                            
+| Romano               |:+1:|
+
 
 
 ### Rank
 
 | Pos | Ranking Geral | 6ªs | Shunfles                              | VCE         |
 |-----|---------------|-----|---------------------------------------|-------------|
-| 1   | Matias        | 31  |:basketball:                           |             |
-| 2   | Júlio         | 21  |:basketball:                           |             |
-| 3   | Daniel        | 20  |                                       |             |
-| 4   | Andre         | 19  |:basketball:                           |             |
-| 5   | Gustavo       | 18  |:basketball:                           |             |
-| 6   | Luis          | 15  |:basketball:                           |             |
-| 7   | Moacir        | 13  |:basketball:                           |             |
-| 8   | Romano        | 10  |                                       |             |
+| 1   | Matias        | 31  |                                       |             |
+| 2   | Júlio         | 22  |:basketball:                           |             |
+| 3   | Gustavo       | 22  |:four::basketball:                     | :uparrow:   |
+| 4   | Daniel        | 20  |                                       | :downarrow: |
+| 5   | Andre         | 19  |                                       | :downarrow: |
+| 6   | Luis          | 15  |                                       |             |
+| 7   | Moacir        | 13  |                                       |             |
+| 8   | Romano        | 11  |:basketball:                           |             |
 | 9   | Joao          | 10  |                                       |             |
-| 10  | Yuri          | 8   |                                       |             |
-| 11  | Felipe        | 7   |:basketball:                           |             |
+| 10  | Yuri          | 9   |:basketball:                           |             |
+| 11  | Felipe        | 8   |:basketball:                           |             |
 | 12  | Bernardo      | 6   |                                       |             |
 | 13  | ~~Ana~~       | 4   |                                       |             |
 | 14  | Bruno         | 2   |                                       |             |
