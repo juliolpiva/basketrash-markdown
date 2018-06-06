@@ -6,8 +6,8 @@
 | Pos | Ranking Geral | 6ªs | Shunfles                              | VCE         |
 |-----|---------------|-----|---------------------------------------|-------------|
 | 1   | Matias        | 35  |                                       |             |
-| 3   | Gustavo       | 24  |:basketball::basketball:               |:uparrow:    |
-| 2   | Júlio         | 23  |                                       |:downarrow:  |
+| 2   | Gustavo       | 24  |:basketball::basketball:               |:uparrow:    |
+| 3   | Júlio         | 23  |                                       |:downarrow:  |
 | 4   | Daniel        | 20  |                                       |             |
 | 5   | Andre         | 20  |                                       |             |
 | 6   | Luis          | 16  |:basketball:                           |             |
